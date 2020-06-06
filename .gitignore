@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AcuityProgrammingTest/Palindrome/Palindrome.csproj.user
+/AcuityProgrammingTest/Palindrome/obj/Debug
+/AcuityProgrammingTest/Palindrome/bin/Debug
+/AcuityProgrammingTest/.vs/AcuityProgrammingTest/v16
